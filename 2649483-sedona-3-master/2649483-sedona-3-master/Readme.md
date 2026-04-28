@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Даниил Денисов](https://up.htmlacademy.ru/htmlcss-individual/3/user/2649483).
-* Наставник: `Александр Козюков`.
+* Наставник: [Александр Козюков]https://htmlacademy.ru/profile/id1119885.
 
 ---
 
